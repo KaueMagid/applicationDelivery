@@ -1,4 +1,3 @@
-import { isBigIntLiteral } from 'typescript';
 import { formatprice } from './helpers';
 import { Product } from './types';
 
